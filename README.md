@@ -11,9 +11,9 @@ Proyek ini bertujuan untuk membuat sebuah sistem IoT yang menggunakan mikrokontr
 cara kerja alat ketika suhu di bawah 30°C maka alat akan menyalakan lampu berwarna hijau, jika alat mendeteksi suhu di antara 30-36°C maka alat akan menyalakan lampu berwarna kuning, jika alat mendeteksi suhu diatas 36°C maka alat akan menyalakan lampu berwarna merah dan menyalakan suara seperti suara peringatan, suhu pada alat bisa di monitoring pada thingspeak.
 
 ## E. Pembagian tugas :
- - 2109106120 Hendy Saputra =
- - 2109106116 Rahmad Ramadhan =
- - 2109106017 Fitra Noviarji =
+ - 2109106120 Hendy Saputra = konfigurasi code ke perangkat
+ - 2109106116 Rahmad Ramadhan = Pembuatan rangkaian perangkat
+ - 2109106017 Fitra Noviarji = menghubungkan ke thingspeak dan membuat skematic
 ## F. Komponen yang digunakan :
  - Kabel jumper male to female
  - kabel jumper male to male
